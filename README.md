@@ -72,13 +72,9 @@ Upload a `.txt` file containing your list of domains (line-separated) to begin t
 
 ## Screenshots
 
-_(Placeholders for images showcasing the tool's interface, charts, and summary outputs)_
-
-- GUI Overview (upload and settings)
-- Interactive Records Matrix
-- Grouped Bar Chart for SPF/DKIM/DMARC Statuses
-- DMARC Policy Distribution Chart
-- Historical Timeline Analysis
+![GUI Overview](media/1.png)
+![Interactive Records Matrix](media/2.png)
+![Historical Timeline Analysis](media/3.png)
 
 ## Integration and Extensibility
 AsyncMailChecker can integrate into broader security assessment frameworks or operate as a standalone solution. The CSV output enables easy ingestion into SIEM tools or further data analysis platforms.
